@@ -1,0 +1,50 @@
+section {
+    width: 90%;
+    margin: auto;
+}
+
+article {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.producto {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.informacion {
+    flex: 1;
+    padding: 0 30px;
+}
+
+.informacion h2 {
+    margin-top: 0;
+}
+
+.lateral {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+
+h1{
+background-color: yellow;
+margin-bottom: 0%;
+margin-top: 0%;
+}
+
+nav{
+    background-color: green;
+    
+}
+
+footer{
+    background-color: yellow;
+}
+
+body{
+ margin: 0px;
+}
